@@ -1,0 +1,23 @@
+SKETCH TOOL
+
+v1.0.3 - GitHub release
+- Added self update checker (popup when there's a new version available)
+
+v1.0.2
+- Fixed pillars being deleted at reload
+- Improved pillars placement
+- Added a pillar size slider
+- Added wall size being displayed in the pillar tab
+
+v1.0.1
+- Added "Used" tabs in the Convert window (also finds corresponding assets between the Wall/Path tools and the Portal/Object tools)
+- Fixed compatibility with Custom Snap
+- Fixed issues with merging shapes
+- Cleaned some parts of the UI
+- Simplified round shapes converted to walls (less points)
+- Sorting order in the Convert popup is now remembered between tabs (and reloads)
+- Fixed "Convert with previous settings" button in the floatbar not working correctly
+- Sped up the wall conversion
+
+
+v1.0.0 - Discord Release
