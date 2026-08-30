@@ -1,0 +1,8 @@
+{
+    "name": "Sketch Tool",
+    "unique_id": "Moulk.SketchTool",
+    "version": "1.0.3",
+    "author": "Moulk",
+    "description": "Adds a Sketch tool (Design tab) to draw freehand notes, lines and shapes on an overlay above the map. Multiple named sketches per map, adjustable layer and opacity, eraser, undo/redo, excluded from exports. Contains a building generator that can be converted to walls/doors/windows.",
+    "dd_version": "1.2.0.1"
+}
